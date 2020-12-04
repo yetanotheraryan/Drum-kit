@@ -1,5 +1,5 @@
 # Drum-kit
-### Simple Vanila javascript project served using nodejs and expressjs
+### Vanila javascript project served using nodejs and expressjs
 ### Instructions
 Press the Buttons mentioned on the screen for specific sounds mentioned below the key. 
 <br/>
